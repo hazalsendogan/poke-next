@@ -1,0 +1,14 @@
+.navbar > ul{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    padding: 1.25rem;
+    background-color: #285E61;
+}
+.navbar li {
+    padding-right: 1.25rem;
+}
+.navbar .link {
+    color: #fff;
+    display: block;
+}
